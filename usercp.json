@@ -1,8 +1,8 @@
 {
-  "staff_new_features_title":"New Feature: UserCP Is Live!",
-  "staff_new_features_msg": "UserCP Is live & mobile ready. Try it out Now!",
-  "staff_Notes_title":"Customer Notes: Live Test",
-  "staff_Notes_msg": "Sanction News / Annouceements will go here",
+  "staff_new_features_title":"New Feature: Customer portal is now live!",
+  "staff_new_features_msg": "Customer portal is now live and optimized for mobile. Try it out today!",
+  "staff_Notes_title":"Customer Updates: Approaching Live Release",
+  "staff_Notes_msg": "Updates on sanctions and official announcements will be provided in this section",
   "staff_BugReports_title":"Updates: Security & Bugs",
-  "staff_BugReports_msg":"TEST"
+  "staff_BugReports_msg":"Security vulnerabilities, bug reports, and related technical details will be documented in this section."
 }
